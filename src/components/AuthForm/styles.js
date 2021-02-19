@@ -8,6 +8,7 @@ export const Form = styled.form`
   flex-direction: column;
   align-items: center;
   background-color: lavender;
+  margin: 30px auto;
 `;
 
 export const Input = styled.input`
